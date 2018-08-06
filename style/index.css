@@ -1,5 +1,6 @@
 body {
     background-color: #DFE1E6;
+    font-family: sans-serif
 }
 
 .container {
@@ -116,7 +117,7 @@ hr {
 #pro-pic img {
     border-radius: 10%;
     width: 150px;
-    height: 180px;
+    height: 170px;
 }
 
 #pro-pic {
@@ -175,7 +176,7 @@ p {
 #stat div {
     display: inline-block;
     /* margin-right: %; */
-    padding: 5%;
+    padding: 4%;
 }
 
 div#visit {
@@ -194,7 +195,7 @@ div#visit {
 
 hr#hr {
     /* color: blue; */
-    margin: 5% 0 10% 10%;
+    margin: 10% 0 10% 10%;
     border-bottom: 1px solid #F2F2F2;
 }
 
@@ -289,7 +290,7 @@ a {
         border-radius: 5px;
         background: #fff;
         margin-right: 5%;
-        margin-top: 15%;
+        margin-top: 7%;
         filter: brightness(1);
     }
     .card:hover {
@@ -315,8 +316,8 @@ a {
         margin-bottom: -20px;
     }
     h4 {
-        font-size: 24px;
-        margin-bottom: -20px;
+        font-size: 17px;
+        margin-bottom: 24px;
     }
 }
 
